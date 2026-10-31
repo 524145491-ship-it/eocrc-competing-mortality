@@ -1,0 +1,7 @@
+Variable,Level_recorded_as,N,N_unknown_or_merged,Percent,N_yes,Percent_yes,Interpretation
+Race/ethnicity,Other/Unknown,365382,4341,1.2,,,Explicit unknown level retained in models
+Grade,Unknown,365382,98288,26.9,,,Explicit unknown level retained in models
+Surgery,No/Unknown,365382,20480,5.6,,,Explicit unknown level retained in models
+Examined lymph nodes,Unknown,365382,4119,1.1,,,Explicit unknown level retained in models
+Chemotherapy,No/Unknown,365382,229429,62.8,135953,37.2,Yes versus no-or-unknown; documented treatment only
+Radiotherapy,No/Unknown,365382,296689,81.2,68693,18.8,Yes versus no-or-unknown; documented treatment only

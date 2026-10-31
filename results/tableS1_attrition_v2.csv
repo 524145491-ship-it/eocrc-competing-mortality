@@ -1,0 +1,10 @@
+Step,Records,Patients,Excluded_Records,Excluded_Patients,Retention_Pct
+Initial raw cohort (2000-2022),654149,631157,0,0,100
+First primary malignancy only,530027,530027,124122,101130,81.03
+Survival time > 0 months and valid follow-up,504397,504397,25630,25630,77.11
+Colorectal adenocarcinoma histology confirmed,466424,466424,37973,37973,71.3
+Age >= 18 years (adult cohort),466322,466322,102,102,71.29
+Primary survival set: Stage I-III,365382,365382,100940,100940,55.86
+Secondary set: Stage IV,87185,87185,0,0,13.33
+Unknown stage (not in main models),13755,13755,0,0,2.1
+Modern metastatic subcohort: 2010-2022 (all stages),256312,256312,0,0,39.18
